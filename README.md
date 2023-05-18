@@ -1,6 +1,8 @@
 # Zabbix_Docker
 Docker Compose를 이용한 Zabbix Server 구축
 
+<img src="https://github.com/hahic/Zabbix_Docker/assets/31979193/ee488517-11e2-4d89-be7d-a9428031d959" width="90%" height="90%">
+
 ```
 - docker-compose.yaml
 - env_vars
